@@ -1,0 +1,19 @@
+{
+  "name": "container_test",
+  "type": "containerized",
+  "blockId": "BpTn8EDZxhGUtGuw6DJsk",
+  "source": {
+    "branch": "block_container_test"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "ruby",
+  "dependencies": {},
+  "version": "0.0.2",
+  "variantOf": "UVsmiRmDw47vyRAhymktu",
+  "variantOfBlockId": "x502C4AknWO3aCzyg2X1_"
+}
